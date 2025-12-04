@@ -5,7 +5,7 @@ This repository contains scripts to automatically configure my WSL2 environment.
 ## Quick Start
 
 ```bash
-git clone https://github.com/mathmoi/wsl.install.git "$HOME/wsl.install" && cd "$HOME/wsl.install" && ./install.sh
+git clone git@github.com:mathmoi/wsl.install.git "$HOME/wsl.install" && cd "$HOME/wsl.install" && ./install.sh
 ```
 
 ### Git and GitHub SSH Setup
