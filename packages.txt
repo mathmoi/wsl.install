@@ -1,0 +1,6 @@
+build-essential
+git
+neovim
+stow
+bat
+tmux
