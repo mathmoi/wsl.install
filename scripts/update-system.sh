@@ -24,10 +24,6 @@ sudo apt-get update
 echo -e "${YELLOW}Upgrading installed packages...${NC}"
 sudo apt-get upgrade -y
 
-# Upgrade distribution packages
-echo -e "${YELLOW}Performing distribution upgrade...${NC}"
-sudo apt-get dist-upgrade -y
-
 # Remove unnecessary packages
 echo -e "${YELLOW}Cleaning up unnecessary packages...${NC}"
 sudo apt-get autoremove -y
