@@ -30,6 +30,9 @@ echo ""
 # Install fastfetch
 "${SCRIPT_DIR}/scripts/install-fastfetch.sh"
 
+# Install Starship prompt
+"${SCRIPT_DIR}/scripts/install-starship.sh"
+
 # Configure Git (interactive)
 "${SCRIPT_DIR}/scripts/configure-git.sh"
 

@@ -4,3 +4,5 @@ neovim
 stow
 bat
 tmux
+btop
+cmatrix
